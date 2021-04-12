@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "PxPlus_IBM_VGA_9x16";
+    font-weight: 200;
+    src: url('Mx437_EagleSpCGA_Alt3.ttf' format('truetype'));
+}
+@font-face {
+    font-family: "PxPlus_IBM_VGA_9x16";
+    font-weight: 400;
+    src: url('Mx437_EagleSpCGA_Alt3.ttf' format('truetype'));
+}
+@font-face {
+    font-family: "PxPlus_IBM_VGA_9x16";
+    font-weight: 600;
+    src: url('Mx437_EagleSpCGA_Alt3.ttf' format('truetype'));
+}
+@font-face {
+    font-family: "PxPlus_IBM_VGA_9x16";
+    font-weight: 800;
+    src: url('Mx437_EagleSpCGA_Alt3.ttf' format('truetype'));
+}
