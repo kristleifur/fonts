@@ -1,20 +1,25 @@
 @font-face {
-    font-family: "MxPlus_IBM_VGA_9x16-2x";
-    font-weight: 200;
-    src: url('Mx437_EagleSpCGA_Alt3.ttf' format('truetype'));
+    font-family: "Px437 EagleSpCGA Alt3";
+    /*font-style: normal;*/
+    /*font-weight: 200;*/
+    src: url('Px437_EagleSpCGA_Alt3.ttf') format('truetype');
 }
-@font-face {
-    font-family: "MxPlus_IBM_VGA_9x16-2x";
-    font-weight: 400;
-    src: url('Mx437_EagleSpCGA_Alt3.ttf' format('truetype'));
-}
-@font-face {
-    font-family: "MxPlus_IBM_VGA_9x16-2x";
-    font-weight: 600;
-    src: url('Mx437_EagleSpCGA_Alt3.ttf' format('truetype'));
-}
-@font-face {
-    font-family: "MxPlus_IBM_VGA_9x16-2x";
-    font-weight: 800;
-    src: url('Mx437_EagleSpCGA_Alt3.ttf' format('truetype'));
-}
+
+/*@font-face {*/
+/*    font-family: "Px437 EagleSpCGA Alt3";*/
+/*    font-style: normal;*/
+/*    font-weight: 400;*/
+/*    src: url('Px437_EagleSpCGA_Alt3.ttf') format('truetype');*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: "Px437 EagleSpCGA Alt3";*/
+/*    font-weight: 600;*/
+/*    src: url('Px437_EagleSpCGA_Alt3.ttf') format('truetype');*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: "Px437 EagleSpCGA Alt3";*/
+/*    font-weight: 800;*/
+/*    src: url('Px437_EagleSpCGA_Alt3.ttf') format('truetype');*/
+/*}*/
